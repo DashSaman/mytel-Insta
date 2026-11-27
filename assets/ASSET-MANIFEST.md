@@ -8,7 +8,7 @@ The 30 episode Markdown briefs are committed. Character/environment reference PN
 - assets/characters/simo/hero.png — coiled cord red shoes
 - assets/characters/maliheh/hero.png — young Iranian woman in 1990s wardrobe
 - assets/characters/amir/hero.png — young Iranian man in 1990s wardrobe
-- assets/characters/ahmad/hero.png — father in 1990s wardrobe
+- assets/characters/nosratollah/hero.png — father in 1990s wardrobe
 - assets/characters/dokmei/hero.png — beige push-button phone
 - assets/characters/ghodrati/hero.png — black brick mobile
 - assets/characters/amir-older/hero.png — older Amir (not yet generated)
