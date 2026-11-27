@@ -6,9 +6,9 @@ The 30 episode Markdown briefs are committed. Character/environment reference PN
 ## Character hero references (approved after review)
 - assets/characters/zangi/hero.png — mustard rotary phone with mustache
 - assets/characters/simo/hero.png — coiled cord red shoes
-- assets/characters/maryam/hero.png — young Iranian woman in 1990s wardrobe
+- assets/characters/maliheh/hero.png — young Iranian woman in 1990s wardrobe
 - assets/characters/amir/hero.png — young Iranian man in 1990s wardrobe
-- assets/characters/mahmoud/hero.png — father in 1990s wardrobe
+- assets/characters/ahmad/hero.png — father in 1990s wardrobe
 - assets/characters/dokmei/hero.png — beige push-button phone
 - assets/characters/ghodrati/hero.png — black brick mobile
 - assets/characters/amir-older/hero.png — older Amir (not yet generated)
@@ -21,8 +21,8 @@ The 30 episode Markdown briefs are committed. Character/environment reference PN
 - assets/environments/living-room-transition.png
 - assets/environments/entrance-day.png
 - assets/environments/entrance-evening.png
-- assets/environments/maryam-room-day.png
-- assets/environments/maryam-room-night.png
+- assets/environments/maliheh-room-day.png
+- assets/environments/maliheh-room-night.png
 - assets/environments/street-night.png
 - assets/environments/storage-day.png
 - assets/environments/storage-night.png
