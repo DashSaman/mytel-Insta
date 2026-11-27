@@ -1,7 +1,7 @@
 # Asset manifest — Season 1
 
 ## Current status
-The 30 episode Markdown briefs are committed. Character/environment reference PNG files were generated in conversation, but **are not yet in GitHub**. Paths below are planned, not existing files. A separate deliverable ZIP can be prepared from available conversation images for manual review/import.
+Seven character PNGs are verified and committed at repository root on `main`: `amir.png`, `malihe.png`, `mr-zangi.png`, `simo.png`, `haj-nosratollah.png`, `mrs-dokmei.png`, `ghodrati.png`. See [`production/CHARACTER-ASSET-MAP.md`](../production/CHARACTER-ASSET-MAP.md) for authoritative character-ID mapping. The `assets/characters/.../hero.png` entries below are future organizational targets, NOT the current image paths. Environment reference plates are not yet verified.
 
 ## Character hero references (approved after review)
 - assets/characters/zangi/hero.png — mustard rotary phone with mustache
