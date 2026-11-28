@@ -1,0 +1,1 @@
+References: @Nosratollah + the LivingRoomNight image as an ingredient. Amir is only a voice: if attaching @Amir makes him visible, drop @Amir and delete his line from the prompt; insert the saved line MYTEL_AMIR_FA_line05.wav in editing with a telephone filter.

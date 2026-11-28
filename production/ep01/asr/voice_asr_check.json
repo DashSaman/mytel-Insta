@@ -1,0 +1,68 @@
+{
+  "model": "small",
+  "results": [
+    {
+      "voice": "MYTEL_AMIR_FA",
+      "expected": "ملیحه؟ خودتی؟ وای خدا، نکنه بابات گوشی رو برداره!",
+      "heard": "مالی هه؟ خودتی؟ وای خودا نکن بوبات کشو برداره",
+      "token_recall": 0.444,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 6.92
+    },
+    {
+      "voice": "MYTEL_MALIHEH_FA",
+      "expected": "بابا، صبر کن! اون تعمیرکار نیست!",
+      "heard": "بابا سب کن! اون تمیر کار نیست!",
+      "token_recall": 0.667,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 4.16
+    },
+    {
+      "voice": "MYTEL_NOSRATOLLAH_FA",
+      "expected": "بله؟ کیه این وقت شب؟ آقا ما که کولر نداریم!",
+      "heard": "بلو که این بخد شاب؟ اگه ما که کولر نداریم؟",
+      "token_recall": 0.5,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 7.04
+    },
+    {
+      "voice": "MYTEL_ZANGI_FA",
+      "expected": "الو! باز عاشق‌ها افتادن به جون خط!",
+      "heard": "الو باز آشغا افتدن بجون خت",
+      "token_recall": 0.286,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 3.88
+    },
+    {
+      "voice": "MYTEL_SIMO_FA",
+      "expected": "زنگی! باز شروع شد؟ من دیگه کشش ندارم!",
+      "heard": "زنگی با شروع شاد من دیگه کشش ندارم",
+      "token_recall": 0.75,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 6.0
+    },
+    {
+      "voice": "MYTEL_DOKMEI_FA",
+      "expected": "ببین عزیزم، با این شماره گرفتنات تا فردا هم وصل نمی‌شی!",
+      "heard": "ببین از ازیزم با ایش امره گرفتنو تو فردو هم وصل نمیشی.",
+      "token_recall": 0.545,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 5.24
+    },
+    {
+      "voice": "MYTEL_GHODRATI_FA",
+      "expected": "داداش، دوران شما تموم شده! الان دیگه نوبت منه!",
+      "heard": "داداش دوران شما تموم شده عالان دیگه نوبت منی",
+      "token_recall": 0.778,
+      "language": "fa",
+      "language_probability": 1,
+      "duration_s": 6.76
+    }
+  ]
+}

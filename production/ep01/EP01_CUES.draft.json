@@ -1,0 +1,13 @@
+{
+  "_note": "DRAFT cue times estimated from the shot prompts. Re-time from the real clip audio before final delivery (make_subs.py uses the real clip durations for the offsets).",
+  "style": {"font": "Vazirmatn", "font_size": 62, "margin_v": 640},
+  "cues": [
+    {"shot": 1, "start": 2.0, "end": 5.4, "text": "الو! باز عاشق‌ها افتادن به جون خط!"},
+    {"shot": 2, "start": 3.6, "end": 5.8, "text": "ملیحه؟ خودتی؟"},
+    {"shot": 3, "start": 2.4, "end": 5.6, "text": "بله؟ کیه این وقت شب؟"},
+    {"shot": 4, "start": 2.2, "end": 6.2, "text": "سلام، تعمیرکار کولرم! برای سرویس زنگ زدم."},
+    {"shot": 5, "start": 1.6, "end": 3.6, "text": "ما که کولر نداریم!"},
+    {"shot": 5, "start": 4.8, "end": 6.8, "text": "امیر از تلفن: پس مشکل از همینه!"},
+    {"shot": 6, "start": 2.4, "end": 5.6, "text": "بابا... اون تعمیرکار نیست!"}
+  ]
+}

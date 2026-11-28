@@ -1,0 +1,6 @@
+n,item,type,model,settings,attempts,credits,accepted,rejected,reason
+1,LivingRoomNight image,image,Nano Banana 2.1,9:16 x1,1,0,0,1,"unusual activity (not charged)"
+2,LivingRoomNight image retry,image,Nano Banana 2.1,9:16 x1,1,0,0,1,"unusual activity (not charged)"
+3,Custom voice previews,voice preview,Flow custom voice TTS,base preset + performance,7,0,7,0,
+4,EP01_SH01..SH06,video,Omni 1.2 Flash,"Ingredients, 9:16, 8s, x1",0,0,0,0,not attempted (safeguard)
+,TOTAL,,,,9,0,7,2,
